@@ -1,0 +1,10 @@
+1.  HOW TO FIX "The stream or file "/var/www/royals/back/storage/logs/laravel.log" 
+could not be opened in append mode: Failed to open stream: Permission 
+denied The exception occurred while attempting to log:"
+
+	"chown -R www-data:www-data /var/www/royals/back/storage"
+
+
+2. Grant write permissions to the group for the storage directory:
+	
+	"sudo chmod -R 775 /var/www/royals/back/storage"

@@ -1,0 +1,12 @@
+ls -a  =>  display all contents
+
+mkdir <folder_name> =>  create a folder
+
+rm -rf <folder_name>  =>  removes folder with content
+
+rm <file_name>  =>  remove a file
+
+mv <old_name> <new_name>
+
+
+

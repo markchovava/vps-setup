@@ -1,0 +1,2 @@
+#launch app with pm2
+pm2 start npm --name name_of_app -- start

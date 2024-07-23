@@ -1,0 +1,5 @@
+cd /var/www  =>  web file location
+
+cd /etc/nginx/sites-available
+
+cd /etc/nginx

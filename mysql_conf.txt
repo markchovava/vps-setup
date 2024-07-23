@@ -1,0 +1,6 @@
+LOGIN
+mysql -u username -p -h hostname
+
+
+HOW TO CREATE A DATABASE?
+CREATE DATABASE database_name;

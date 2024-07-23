@@ -1,0 +1,3 @@
+chmod 777 ----> full permission
+
+chown -R www-data:www-data storage  ---> gives permission to laravel app to write

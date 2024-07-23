@@ -1,0 +1,5 @@
+select database
+"use db_name;"
+
+the code to import
+"source /path/to/db.sql;"
