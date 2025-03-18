@@ -1,3 +1,9 @@
 chmod 777 ----> full permission
 
 chown -R www-data:www-data storage  ---> gives permission to laravel app to write
+
+
+chown -R www-data:www-data /var/www/rdc_app/back/storage/framework/sessions
+
+
+chmod 777 /var/www/rdc_app/back/storage/framework/sessions

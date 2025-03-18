@@ -1,0 +1,3 @@
+The simplest solution is to force curl to use HTTP/1.1 
+
+curl --http1.1 <https://www.example.com>

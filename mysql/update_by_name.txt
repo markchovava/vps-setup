@@ -1,0 +1,3 @@
+UPDATE places
+SET province_id = 2, city_id = 15
+WHERE name LIKE '%Birchenough%';

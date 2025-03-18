@@ -1,0 +1,5 @@
+Configure Git to use HTTP/1.1 instead of HTTP/2
+    git config --global http.version HTTP/1.1
+    
+Increase the HTTP buffer size
+    git config --global http.postBuffer 524288000

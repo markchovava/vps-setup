@@ -1,0 +1,2 @@
+COPY IN SSH
+scp -r source destination

@@ -1,0 +1,4 @@
+If npm install is hanging or seems stuck when running over SSH, 
+there are several potential causes and solutions:
+
+npm cache clean --force
